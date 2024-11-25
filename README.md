@@ -41,10 +41,7 @@
 ---
 
 ### 🌐 **Most Used Languages**
-<p align="center">
+<p align="center w-full">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongas&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200" alt="Coding Animation" />
-</p>
