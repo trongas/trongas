@@ -32,8 +32,6 @@
 - 📱 Experienced in building responsive and mobile-first applications
 - 🚀 Always exploring new frontend technologies and frameworks
 - 💡 Love creating smooth animations and interactive experiences
-
--
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Technologies  
   ### Core Technologies
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
