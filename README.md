@@ -31,15 +31,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
-
-### 🎨 **Fun Projects**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=ExcellOnFE&theme=radical" alt="Movie App Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=portfolio&theme=radical" alt="Portfolio Project" />
-</p>
-
----
 
 ### 📊 **Contribution Stats**
 <p align="center">
@@ -54,9 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongas&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
 </p>
 
----
-
-### 🌀 **Dynamic Animation**
 <p align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200" alt="Coding Animation" />
 </p>
