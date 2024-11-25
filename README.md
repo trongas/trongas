@@ -45,9 +45,6 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/[YOUR_USER_ID]/[IMAGE_ID].png" width="100">
 
   ### Styling & Layout
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,11 +85,11 @@
 <div align="center">
 
 ```text
-Frontend Development   ███████████████████░   95%
+Frontend Development   ██████████████████░   95%
 Angular               ██████████████████░░   90%
-React                 ████████████████░░░░   80%
+React                 ███████████████░░░░░   60%
 UI/UX Design          ████████████████░░░░   80%
-Responsive Design     ███████████████████░   95%
+Responsive Design     ██████████████████░░   90%
 State Management      ████████████████░░░░   80%
 ```
 
@@ -104,7 +101,7 @@ State Management      ████████████████░░░�
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trongdinh07@gmail.com)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/your-username)
 
 </div>
