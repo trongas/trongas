@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/tumblr_m1mhzbRLGt1qjvsoxo1_400.gifv" width="100%" height="100px" alt="banner"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="auto" alt="banner"/>
 </div>
 
 <h1 align="center">
@@ -37,38 +37,6 @@
 - 🚀 Always exploring new frontend technologies and frameworks
 - 💡 Love creating smooth animations and interactive experiences
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-  <a href="your-project-link">
-    <img src="/api/placeholder/500/300" alt="E-commerce Project" width="400" style="border-radius: 10px; margin: 10px;">
-    <h3>E-commerce Platform</h3>
-  </a>
-  <p>A modern e-commerce platform built with Angular and NgRx</p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-</div>
-
-<div align="center">
-  <a href="your-project-link">
-    <img src="/api/placeholder/500/300" alt="Dashboard Project" width="400" style="border-radius: 10px; margin: 10px;">
-    <h3>Admin Dashboard</h3>
-  </a>
-  <p>Feature-rich admin dashboard created with React and Material-UI</p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-</div>
-
-<div align="center">
-  <a href="your-project-link">
-    <img src="/api/placeholder/500/300" alt="Social Media Project" width="400" style="border-radius: 10px; margin: 10px;">
-    <h3>Social Media App</h3>
-  </a>
-  <p>Modern social media application with real-time features</p>
-</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Technologies
 
