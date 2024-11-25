@@ -45,5 +45,6 @@
 
 ### Fun Animation:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=example-repo&theme=radical" alt="Example Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=your-repo-name&theme=radical" alt="Example Project" />
+
 </p>
