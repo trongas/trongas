@@ -35,7 +35,7 @@
 
 ### 🎨 **Fun Projects**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=movie-app&theme=radical" alt="Movie App Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=ExcellOnFE&theme=radical" alt="Movie App Project" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=portfolio&theme=radical" alt="Portfolio Project" />
 </p>
 
