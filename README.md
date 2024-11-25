@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Minh Pham 👋</h1>
+<h1 align="center">Hi, I'm Tong 👋</h1>
 
 ### About me
 - 🌟 A passionate Self-taught Front-end developer  
