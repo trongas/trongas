@@ -34,12 +34,7 @@
 - 💡 Love creating smooth animations and interactive experiences
 
 -
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Technologies
--
-
-
-<div align="center">
-  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Technologies  
   ### Core Technologies
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -64,8 +59,6 @@
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
   
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Statistics
 
 <div align="center">
@@ -85,7 +78,7 @@
 <div align="center">
 
 ```text
-Frontend Development   ██████████████████░   95%
+Frontend Development  ███████████████████░   95%
 Angular               ██████████████████░░   90%
 React                 ███████████████░░░░░   60%
 UI/UX Design          ████████████████░░░░   80%
