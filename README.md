@@ -30,20 +30,20 @@
 
 ### Most Used Languages:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongas&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
 
 ### Contribution Stats:
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trongas&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trongas&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### Fun Animation:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=example-repo&theme=radical" alt="Example Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongas&repo=example-repo&theme=radical" alt="Example Project" />
 </p>
