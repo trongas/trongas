@@ -45,3 +45,21 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/your-profile"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p>
+
+
+Hi , I'm Minh Pham 
+ About me
+A passionate Self-taught Front-end developer
+Currently learning Web Development by Self
+
+
+
+
+ Skill:
+Java Spring Boot C# .NET JavaScript HTML5 CSS3
+React Angular Redux MySql SqlServer PostGreSql MongoDB RabbitMQ Git
+
+
+phami24
+
+phami24
