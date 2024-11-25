@@ -6,15 +6,13 @@
   <img src="https://img.shields.io/github/followers/your-github-username?label=Followers" alt="your-github-username" />
 </p>
 
-- 🔭 I’m currently working on **Angular & Spring Boot projects**
+- 🔭 I’m currently working on **Angular**
 
 - 🌱 I’m currently learning **React and improving my design skills**
 
 - 💬 Ask me about **Angular, Spring Boot, and clean code**
 
 - 📫 How to reach me **trongdinh07@gmail.com**
-
-- ⚡ Fun fact **I love playing FIFA and League of Legends in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
